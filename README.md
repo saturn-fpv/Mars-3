@@ -2,7 +2,7 @@
 
 ### 3" Unibody FPV Frame
 
-The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** designed for 3-inch FPV builds. Based on the Mars 2 geometry, it scales the truss-style arm design up for 3" propellers while keeping the rigidity and smooth flight characteristics of its smaller sibling.
+The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** designed for 3-inch FPV builds. Based on the Mars 2 geometry, it scales the truss-style arm design up for 3" propellers while keeping the rigidity and smooth flight characteristics of its smaller sibling. This is the perfect park cruiser.
 
 <p align="center">
   <img src="/images/Mars-3.jpg" width="40%">
@@ -23,6 +23,7 @@ The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** d
 - **Central mounting platform** for clean AIO or stack installation
 - **Octa-shape base**, rigid and with enough space for 90° USB-C or Micro-USB ports
 - **120 mm wheelbase** for agile flying with more efficiency than 2" builds
+- **Elastics hooks** for flexible and lightweight battery mounting
 - **Wide motor protection zones** for better crash resistance
 - **Compatible with analog and HD systems** (DJI O4, HDZero, Walksnail, analog)
 - **9 g frame weight** for improved efficiency and flight time
@@ -39,7 +40,7 @@ The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** d
 ### **Frame Weight**
 
 - **9 g** (bare frame, 2.5 mm carbon)
-- **AUW:** [add]
+- **AUW:** 63g (reference build with O3 lens mod and IR pass filter)
 
 ### **Motor Recommendations**
 
@@ -54,6 +55,10 @@ The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** d
 - **3" (76 mm) propellers**, **1.5 mm shaft bore**
 Recommended options:
   * Gemfan 3018 bi-blade (reference build)
+  * Gemfan 3016 tri-blade
+  * HQProp T3X1.5 bi-blade
+  * HQProp T3x2 bi-blade
+  * HQProp T3X1.8X3 tri-blade
 
 ### **Screw Sizes**
 
@@ -65,7 +70,6 @@ Recommended options:
 
 Material: **TPU (95A)**
 Suggested prints:
-
 - Canopy (any 25.5 mm whoop canopy)
 - Battery holder (optional)
 
@@ -78,7 +82,6 @@ Suggested prints:
 - Keep battery centered for better CG
 - For DJI O4 builds: tuck the cables away neatly
 - Keep wiring short for better performance and reliability
-- Stay at 3.0" props. At a 120 mm wheelbase there is roughly 8 mm of tip-to-tip gap between adjacent props, so 3.1" leaves too little margin
 
 ---
 
@@ -91,3 +94,5 @@ Suggested prints:
 ## 🪐 Mars Series
 
 - [Mars 2](https://github.com/saturn-fpv/Mars-2) - 90 mm wheelbase, 2" props, 2 mm carbon
+- [Mars 3](https://github.com/saturn-fpv/Mars-3) - 120 mm wheelbase, 3" props, 2.5 mm carbon
+- [Mars 4](https://github.com/saturn-fpv/Mars-4) - 160 mm wheelbase, 4" props, 3 mm carbon
