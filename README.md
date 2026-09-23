@@ -55,8 +55,8 @@ The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** d
 
 ### **Propeller Size**
 
-- **3" (76 mm) propellers**, **1.5 mm shaft bore**
-Recommended options:
+- **3" (76 mm) propellers**, **1.5 mm shaft bore**  
+  Recommended options:
   * Gemfan 3018 bi-blade (reference build)
   * Gemfan 3016 tri-blade
   * HQProp T3X1.5 bi-blade
