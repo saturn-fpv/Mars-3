@@ -4,7 +4,15 @@
 
 The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** designed for 3-inch FPV builds. Based on the Mars 2 geometry, it scales the truss-style arm design up for 3" propellers while keeping the rigidity and smooth flight characteristics of its smaller sibling.
 
-[images]
+<p align="center">
+  <img src="/images/Mars-3.jpg" width="40%">
+  <img src="/images/example-build_small.jpg" width="40%">
+</p>
+
+<p align="center">
+  <img src="/images/weight_small.jpg" width="30%">
+  <img src="/images/Mars-series_small.jpg" width="40%">
+</p>
 
 ---
 
