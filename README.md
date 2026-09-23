@@ -37,7 +37,8 @@ The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** d
 
 ### **Frame Thickness**
 
-- **2.5 mm carbon fiber:** balanced between strength and weight, stiff enough for the longer 3" arms.
+- **2.5 mm carbon fiber:** surprisingly strong and still lightweight. Barely any torsional flex (unlike single-rod toothpick arms).
+- **2 mm carbon fiber:** if every gram counts. Still strong due to truss-style arms.
 
 ### **Frame Weight**
 
