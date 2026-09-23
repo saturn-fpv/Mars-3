@@ -47,7 +47,7 @@ The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** d
 
 ### **Motor Recommendations**
 
-- **1203, 1204, 1303, 1303.5 motors** with a **9 mm bolt circle** (4.5 mm hole radius from center), M2
+- **1203, 1204, 1303 motors** with a **9 mm bolt circle** (4.5 mm hole radius from center), M2
 - Kv range:
   * **2S builds:** 6000-8000 Kv
   * **3S builds:** 4500-6000 Kv
