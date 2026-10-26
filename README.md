@@ -8,7 +8,7 @@ The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** d
 
 <p align="center">
   <img src="/images/Mars-3.jpg" width="40%">
-  <img src="/images/example-build_small.jpg" width="40%">
+  <img src="/images/example-build_2_small.jpg" width="40%">
 </p>
 
 <p align="center">
