@@ -33,6 +33,12 @@ The **Mars 3** is a lightweight and durable **120 mm wheelbase unibody frame** d
 
 ---
 
+## 🛒 Buy the Frame
+
+The design is free and open source, so you can have it made by any CNC milling service. If you'd rather skip the setup, [CNCDrones](https://cncdrones.com/) will soon offer this frame for sale.
+
+---
+
 ## 🔧 Build Specifications & Recommendations
 
 ### **Frame Thickness**
