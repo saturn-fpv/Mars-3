@@ -90,7 +90,7 @@ Suggested prints:
 
 ## 🔗 Printables Link
 
-👉 **Printables:** [coming soon]
+👉 **Printables:** [https://www.printables.com/model/1908776-mars-3-fpv-drone-frame](https://www.printables.com/model/1908776-mars-3-fpv-drone-frame)
 
 ---
 
