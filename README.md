@@ -101,8 +101,12 @@ Suggested prints:
 
 ---
 
-## 🪐 Mars Series
+## 🪐 Saturn FPV Frames
 
+**Nova Series**
+- [Nova 5](https://github.com/saturn-fpv/Nova-5) - 218 mm wheelbase, 5" props, 6 mm arms (v0.9 beta)
+
+**Mars Series**
 - [Mars 2](https://github.com/saturn-fpv/Mars-2) - 90 mm wheelbase, 2" props, 2 mm carbon
 - [Mars 3](https://github.com/saturn-fpv/Mars-3) - 120 mm wheelbase, 3" props, 2.5 mm carbon
 - [Mars 4](https://github.com/saturn-fpv/Mars-4) - 160 mm wheelbase, 4" props, 3 mm carbon
